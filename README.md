@@ -23,7 +23,7 @@ Científico de Datos enfocado en extraer valor de conjuntos de datos complejos m
   
 ---
 
-## 📈 proyectos Destacado
+## 📈 Proyecto Destacado
 **[lung-cancer-prediction-xgboost](https://github.com/carlos-villa-restrepo/lung-cancer-prediction-xgboost)**: Sistema de predicción de supervivencia a 5 años tras el diagnóstico de cáncer de pulmón mediante un pipeline de 5 modelos independientes, cada uno optimizado para predecir la probabilidad de supervivencia en un año específico (del año 1 al año 5). Desplegado en una aplicación interactiva en Streamlit con visualizaciones dinámicas de la curva de riesgo y evolución de probabilidades según el perfil del paciente.
 
 ---
