@@ -18,7 +18,7 @@ Científico de Datos enfocado en extraer valor de conjuntos de datos complejos m
 
 ## 🎓 Formación Destacada
 - **Data Science & Machine Learning (320H)** | 4Geeks Academy (Feb 2026)
-- **Desarrollador Low Code (360H)** | Fundesplai & Onizea (2025)
+- **Desarrollador Low Code (360H)** | Fundesplai (2025)
 - **BootCamp Desarrollo Full-Stack (850H)** | Factoría F5 (2023)
   
 ---
