@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos Villa Restrepo 👋
 
-### Data Scientist Junior | Full-Stack Developer | Data Visualization & Web Implementation
+### Data Scientist | Full-Stack Developer | Data Visualization & Web Implementation
 
 Científico de Datos enfocado en extraer valor de conjuntos de datos complejos mediante modelado predictivo y aprendizaje automático. Poseo capacidad técnica para el consumo e integración de APIs, permitiendo la ingesta de datos en tiempo real y la automatización de flujos de trabajo que transforman información bruta en soluciones interactivas y accesibles.
 
