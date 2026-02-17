@@ -28,7 +28,7 @@ Científico de Datos enfocado en extraer valor de conjuntos de datos complejos m
 
 ---
 
-## 📫 Contacta conmigo:
+## 📫 Contacta conmigo
 - **[Mi perfil de LinkedIn](https://www.linkedin.com/in/carlos-villa-restrepo-a7b188390/)** 
 - **Email:** villarestrepocarlos@gmail.com
 
