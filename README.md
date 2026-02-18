@@ -2,7 +2,7 @@
 
 ### Data Scientist | Full-Stack Developer | Data Visualization & Web Implementation
 
-Científico de Datos enfocado en extraer valor de conjuntos de datos complejos mediante modelado predictivo y aprendizaje automático. Poseo capacidad técnica para el consumo e integración de APIs, permitiendo la ingesta de datos en tiempo real y la automatización de flujos de trabajo que transforman información bruta en soluciones interactivas y accesibles.
+Científico de Datos decidido y creativo, con experiencia en Python (Pandas, NumPy) y gestión de bases de datos con SQL. Estoy capacitado en el desarrollo de Machine Learning (Scikit-learn, SciPy), Deep Learning (TensorFlow/Keras) y NLP. Transformo datos complejos en insights accionables mediante visualización (Seaborn, Matplotlib). Trabajo en equipo, con dominio de Git para el control de versiones, con adaptabilidad, enfocado en el aprendizaje continuo y la resolución de problemas.
 
 ---
 
