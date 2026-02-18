@@ -10,11 +10,8 @@ Científico de Datos decidido y creativo, con experiencia en Python (Pandas, Num
 - 📊 Especializándome en la creación de modelos predictivos y análisis de datos con **Python**.
 - 🌐 Desplegando aplicaciones de datos interactivas utilizando **Streamlit**.
 - 🎨 Optimizando la experiencia de usuario (UX) mediante maquetación web moderna.
-
-## 🛠️ Stack Técnico
-- **Data Science:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL, Machine Learning, Deep Learning.
-- **Web Development:** HTML5, CSS3, JavaScript, Low Code.
-- **Despliegue & Herramientas:** Streamlit, Git, GitHub, Postman (API Testing).
+  
+---
 
 ## 🎓 Formación Destacada
 - **Data Science & Machine Learning (320H)** | 4Geeks Academy (Feb 2026)
