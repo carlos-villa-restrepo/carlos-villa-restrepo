@@ -9,7 +9,6 @@ Científico de Datos decidido y creativo, con experiencia en Python (Pandas, Num
 ## 🚀 Lo que estoy haciendo ahora
 - 📊 Especializándome en la creación de modelos predictivos y análisis de datos con **Python**.
 - 🌐 Desplegando aplicaciones de datos interactivas utilizando **Streamlit**.
-- 🎨 Optimizando la experiencia de usuario (UX) mediante maquetación web moderna.
   
 ---
 
