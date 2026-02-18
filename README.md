@@ -12,7 +12,7 @@ Científico de Datos decidido y creativo, con experiencia en Python (Pandas, Num
 - 🎨 Optimizando la experiencia de usuario (UX) mediante maquetación web moderna.
 
 ## 🛠️ Stack Técnico
-- **Data Science:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL, Machine Learning.
+- **Data Science:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL, Machine Learning, Deep Learning,
 - **Web Development:** HTML5, CSS3, JavaScript, Low Code.
 - **Despliegue & Herramientas:** Streamlit, Git, GitHub, Postman (API Testing).
 
