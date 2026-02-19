@@ -27,10 +27,6 @@ Científico de Datos decidido y creativo, con experiencia en Python (Pandas, Num
 ## 🌐 Contacta conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-villa-restrepo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:villarestrepocarlos@gmail.com) 
 
-<a href="mailto:villarestrepocarlos@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge">
-</a>
-
 ---
 
 ## 💻 Stack Tecnologico:
