@@ -2,9 +2,9 @@
 
 ### Data Scientist | Full-Stack Developer | Data Visualization & Web Implementation
 
-💡Científico de Datos decidido y creativo, con experiencia en Python (Pandas, NumPy) y gestión de bases de datos con SQL. Estoy capacitado en el desarrollo de Machine Learning (Scikit-learn, SciPy), Deep Learning (TensorFlow/Keras) y NLP. 
+💡Científico de Datos decidido y creativo, con experiencia en Python (Pandas, NumPy) y gestión de bases de datos con SQL. Capacitado en el desarrollo de Machine Learning (Scikit-learn, SciPy), Deep Learning (TensorFlow/Keras) y NLP. 
 
-Transformo datos complejos en insights accionables mediante visualización (Seaborn, Matplotlib). Trabajo en equipo, con dominio de Git para el control de versiones, con adaptabilidad, enfocado en el aprendizaje continuo y la resolución de problemas.
+Sintetizo datos complejos en conclusiones clave mediante visualización (Seaborn, Matplotlib). Trabajo en equipo, con dominio de Git para el control de versiones, con adaptabilidad, enfocado en el aprendizaje continuo y la resolución de problemas.
 
 ---
 
@@ -23,7 +23,9 @@ Transformo datos complejos en insights accionables mediante visualización (Seab
 ---
 
 ## 📈 Proyecto Destacado
-**[lung-cancer-prediction-xgboost](https://github.com/carlos-villa-restrepo/lung-cancer-prediction-xgboost)**: Sistema de predicción de supervivencia a 5 años tras el diagnóstico de cáncer de pulmón mediante un pipeline de 5 modelos independientes, cada uno optimizado para predecir la probabilidad de supervivencia en un año específico (del año 1 al año 5). Desplegado en una aplicación interactiva en Streamlit con visualizaciones dinámicas de la curva de riesgo y evolución de probabilidades según el perfil del paciente.
+**[lung-cancer-prediction-xgboost](https://github.com/carlos-villa-restrepo/lung-cancer-prediction-xgboost)**: Sistema de predicción de supervivencia a 5 años tras el diagnóstico de cáncer de pulmón mediante un pipeline de 5 modelos independientes, cada uno optimizado para predecir la probabilidad de supervivencia en un año específico (del año 1 al año 5). 
+
+Desplegado en una aplicación interactiva en Streamlit con visualizaciones de la curva de riesgo y evolución de probabilidades según el perfil del paciente.
 
 ---
 
