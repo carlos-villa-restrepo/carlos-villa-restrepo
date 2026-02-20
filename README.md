@@ -2,13 +2,16 @@
 
 ### Data Scientist | Full-Stack Developer | Data Visualization & Web Implementation
 
-Científico de Datos decidido y creativo, con experiencia en Python (Pandas, NumPy) y gestión de bases de datos con SQL. Estoy capacitado en el desarrollo de Machine Learning (Scikit-learn, SciPy), Deep Learning (TensorFlow/Keras) y NLP. Transformo datos complejos en insights accionables mediante visualización (Seaborn, Matplotlib). Trabajo en equipo, con dominio de Git para el control de versiones, con adaptabilidad, enfocado en el aprendizaje continuo y la resolución de problemas.
+💡Científico de Datos decidido y creativo, con experiencia en Python (Pandas, NumPy) y gestión de bases de datos con SQL. Estoy capacitado en el desarrollo de Machine Learning (Scikit-learn, SciPy), Deep Learning (TensorFlow/Keras) y NLP. 
+
+Transformo datos complejos en insights accionables mediante visualización (Seaborn, Matplotlib). Trabajo en equipo, con dominio de Git para el control de versiones, con adaptabilidad, enfocado en el aprendizaje continuo y la resolución de problemas.
 
 ---
 
 ## 🚀 Lo que estoy haciendo ahora
-- 📊 Especializándome en la creación de modelos predictivos y análisis de datos con **Python**.
-- 🌐 Desplegando aplicaciones de datos interactivas utilizando **Streamlit**.
+- 📊 Mejorando mi análisis exploratorio (EDA) y la visualización de datos.
+- 🤖 Construyendo modelos predictivos y análisis avanzados con Python.
+- 🌐 Desplegando aplicaciones interactivas utilizando Streamlit.
   
 ---
 
