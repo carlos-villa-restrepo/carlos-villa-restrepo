@@ -52,5 +52,6 @@ Científico de Datos decidido y creativo, con experiencia en Python (Pandas, Num
 ![](https://nirzak-streak-stats.vercel.app/?user=carlos-villa-restrepo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-villa-restrepo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ 
+![](https://img.shields.io/badge/Frase-La_mejor_forma_de_predecir_el_futuro_es_inventándolo.-orange?style=for-the-badge&logo=codepen)
+
