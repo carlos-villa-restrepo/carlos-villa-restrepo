@@ -1,7 +1,9 @@
-# Hi there, I'm Carlos Villa Restrepo 👋
+<div align="center">
+<h1>Hi there, I'm Carlos Villa Restrepo 👋</h1>
+
 
 ### Data Scientist | Full-Stack Developer | Data Visualization & Web Implementation
-
+</div>
 💡Científico de Datos decidido y creativo, con experiencia en Python (Pandas, NumPy) y gestión de bases de datos con SQL. Capacitado en el desarrollo de Machine Learning (Scikit-learn, SciPy), Deep Learning (TensorFlow/Keras) y NLP. 
 
 Sintetizo datos complejos en conclusiones clave mediante visualización (Seaborn, Matplotlib). Trabajo en equipo, con dominio de Git para el control de versiones, con adaptabilidad, enfocado en el aprendizaje continuo y la resolución de problemas.
@@ -52,11 +54,21 @@ Desplegado en una aplicación interactiva en Streamlit con visualizaciones de la
 
 ---
 
-## 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=carlos-villa-restrepo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&locale=es)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=carlos-villa-restrepo&theme=dark&hide_border=false&locale=es)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-villa-restrepo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es)
+## 📊 Estadísticas de GitHub
 
-## ✍️ 
-![](https://img.shields.io/badge/Frase-La_mejor_forma_de_predecir_el_futuro_es_inventándolo.-orange?style=for-the-badge&logo=codepen)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlos-villa-restrepo&show_icons=true&theme=dark&locale=es" alt="Estadísticas de Carlos" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-villa-restrepo&theme=dark&locale=es" alt="Racha de contribuciones" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-villa-restrepo&layout=compact&theme=dark&locale=es" alt="Lenguajes más usados" />
+</p>
+
+<div align="center">
+  <h2>✍️</h2>
+  <img src="https://img.shields.io/badge/Frase-La_mejor_forma_de_predecir_el_futuro_es_inventándolo.-orange?style=for-the-badge&logo=codepen" alt="Frase de Alan Kay" />
+</div>
+<!-- ## ✍️ 
+![](https://img.shields.io/badge/Frase-La_mejor_forma_de_predecir_el_futuro_es_inventándolo.-orange?style=for-the-badge&logo=codepen) -->
+
 
