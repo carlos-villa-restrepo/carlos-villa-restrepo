@@ -11,6 +11,7 @@ Sintetizo datos complejos en conclusiones clave mediante visualización (Seaborn
 ---
 
 ## 🚀 Lo que estoy haciendo ahora
+   #### Practico cada día
 - 📊 Mejorando mi análisis exploratorio (EDA) y la visualización de datos.
 - 🤖 Construyendo modelos predictivos y  realizando análisis con Python.
 ---
