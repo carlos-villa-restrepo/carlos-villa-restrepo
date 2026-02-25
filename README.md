@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Carlos Villa Restrepo 👋</h1>
 
 
-### Data Scientist | Full-Stack Developer | Data Visualization & Web Implementation
+### Data Scientist | Machine Learning | Data Visualization & Web Implementation 
 </div>
 💡Científico de Datos decidido y creativo, con experiencia en Python (Pandas, NumPy) y gestión de bases de datos con SQL. Capacitado en el desarrollo de Machine Learning (Scikit-learn, SciPy), Deep Learning (TensorFlow/Keras) y NLP. 
 
