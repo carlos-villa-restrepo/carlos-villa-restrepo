@@ -31,8 +31,10 @@ Desplegado en una aplicación interactiva en Streamlit con visualizaciones de la
 
 ## 🌐 Contacta conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-villa-restrepo/) 
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:villarestrepocarlos@gmail.com) 
-(villarestrepocarlos@gmail.com)
+
+villarestrepocarlos@gmail.com
 
 ---
 
