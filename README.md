@@ -19,7 +19,7 @@ Sintetizo datos complejos en conclusiones clave mediante visualización (Seaborn
 ## 🎓 Formación Destacada
 - **Data Science & Machine Learning (320H)** | 4Geeks Academy (Feb 2026)
 - **Desarrollador Low Code (360H)** | Fundesplai (2025)
-- **BootCamp Desarrollo Full-Stack (850H)** | Factoría F5 (2023)
+- **Desarrollo Full-Stack (850H)** | Factoría F5 (2023)
   
 ---
 
