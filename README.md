@@ -57,7 +57,7 @@ villarestrepocarlos@gmail.com
 
 ---
 
-## 📊 Estadísticas de GitHub
+<!--## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlos-villa-restrepo&show_icons=true&theme=dark&locale=es" alt="Estadísticas de Carlos" />
@@ -66,12 +66,11 @@ villarestrepocarlos@gmail.com
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-villa-restrepo&layout=compact&theme=dark&locale=es" alt="Lenguajes más usados" />
 </p>
-
+-->
 <div align="center">
   <h2>✍️</h2>
   <img src="https://img.shields.io/badge/Frase-La_mejor_forma_de_predecir_el_futuro_es_inventándolo.-orange?style=for-the-badge&logo=codepen" alt="Frase de Alan Kay" />
 </div>
-<!-- ## ✍️ 
-![](https://img.shields.io/badge/Frase-La_mejor_forma_de_predecir_el_futuro_es_inventándolo.-orange?style=for-the-badge&logo=codepen) -->
+
 
 
